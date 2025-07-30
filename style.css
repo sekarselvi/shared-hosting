@@ -1,0 +1,49 @@
+/* style.css */
+body {
+  margin: 0;
+  font-family: 'Verdana', sans-serif;
+  background-color: #e0f7fa;
+  color: #01579b;
+}
+
+header {
+  background-color: #0288d1;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav {
+  background-color: #03a9f4;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #0288d1;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+h1, h2 {
+  color: #01579b;
+}
